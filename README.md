@@ -1,1 +1,2 @@
-# MC322
+# Philipe Medeiros Serra
+# Engenharia de Computação 021
